@@ -1,5 +1,5 @@
 # GreenHouse
-This project is made in the matter of an hour (needs improvement).  It's A Mobile Application for an Agriculter IoT solution.
+This project is made in the matter of an hour (needs improvement).  It's A Mobile Application for an Agriculture IoT solution.
 Connected to firebase that receives Real-Time Data from the connected embedded system.
 
 <div>
